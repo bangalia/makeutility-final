@@ -1,0 +1,1 @@
+Learning to code can be a unique and rewarding learning experience. However, with all of the resources out there, it be difficult to find and keep track of useful resources. I propose a goroutine that downloads a website's information and saves it with the site in question's name within the same folder.
